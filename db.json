@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "PostTwo ",
+      "body": "This is the post body",
+      "publishedAt": "2am sat 2022"
+    },
+    {
+      "title": "Homes finder Web app",
+      "body": "need more",
+      "PublishedAt": "2021-06-30",
+      "id": "O_FeAFJ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "jhon",
+      "email": "Tbody@gmail.com"
+    }
+  ]
+}
